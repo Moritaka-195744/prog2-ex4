@@ -1,0 +1,7 @@
+public Class Maze{
+    private int startWidth;
+    private int startHeight;
+    private int mazeWidth;
+    private int mazeHeight;
+
+}
